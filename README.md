@@ -9,3 +9,8 @@ Colorize gem used to highlight different responses.
 | !["This is it!](https://github.com/ujjawalsidhpura/Ruby_math_game/blob/main/docs/Screen%20Shot%202021-11-08%20at%204.57.38%20PM.png?raw=true) |
 | :-------------------------------------------------------------------------------------------------------------------------------------------: |
 |                                                                 _A CLI Game_                                                                  |
+
+## Run
+
+main.rb is the main entry point
+Run ` ruby main.rb` from the root directory of the project
