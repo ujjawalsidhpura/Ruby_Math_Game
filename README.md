@@ -6,6 +6,6 @@ A terminal two player game with that asks players to add two numbers (1-20) and 
 
 Colorize gem used to highlight different responses.
 
-| !["This is it!]() |
-| :---------------: |
-|   _A CLI Game_    |
+| !["This is it!](https://github.com/ujjawalsidhpura/Ruby_math_game/blob/main/docs/Screen%20Shot%202021-11-08%20at%204.57.38%20PM.png?raw=true) |
+| :-------------------------------------------------------------------------------------------------------------------------------------------: |
+|                                                                 _A CLI Game_                                                                  |
