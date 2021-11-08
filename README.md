@@ -1,1 +1,11 @@
-# Ruby_math_game
+## Ruby_Math_Game
+
+A simple CLI Ruby 2 player game project to learn basics of Ruby.
+
+A terminal two player game with that asks players to add two numbers (1-20) and valitdate for their response and reply with appropriate response. Game ends after either player looses all 3 (default) lives.
+
+Colorize gem used to highlight different responses.
+
+| !["This is it!]() |
+| :---------------: |
+|   _A CLI Game_    |
