@@ -1,6 +1,7 @@
 require './game'
 require './question'
 require './player'
+require 'colorize'
 
 player1 = Player.new
 player2 = Player.new

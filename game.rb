@@ -1,4 +1,5 @@
 require './player'
+require 'colorize'
 
 class Game
 
@@ -14,13 +15,13 @@ class Game
     @current_player.life -= 1
     
     if @current_player.life == 0
-      puts "You lost, #{@current_player.player_num}"
-      puts "-- Game Over --"
+      puts "You lost, #{@current_player.player_num}".red
+      puts "-- Game Over --".red
     end
   end
 
   def life_left
-    puts "Remaining lives-- Player1 : #{@players[0].life}/3  Player2: #{@players[1].life}/3"
+    puts "Remaining lives-- Player1 : #{@players[0].life}/3  Player2: #{@players[1].life}/3".green
   end
 
   def change_player

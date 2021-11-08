@@ -1,4 +1,5 @@
 require './game'
+require 'colorize'
 
 class Question
 
@@ -14,7 +15,7 @@ class Question
 
     @answer = num1 + num2
 
-    "What does #{num1} plus #{num2} equal?"
+    "What does #{num1} plus #{num2} equal?".blue
   end
 
 end
