@@ -15,7 +15,7 @@ class Question
 
     @answer = num1 + num2
 
-    "What does #{num1} plus #{num2} equal?".blue
+    puts "What does #{num1} plus #{num2} equal?".blue
   end
 
 end
