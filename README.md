@@ -13,7 +13,7 @@ Colorize gem used to highlight different responses.
 ## Run
 
 main.rb is the main entry point
-<br>.
+<br>
 <br>
 Run `gem install colorize`
 <br>
